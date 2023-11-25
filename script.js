@@ -1,1 +1,1 @@
-alert('meow');
+alert('mega kyky');
